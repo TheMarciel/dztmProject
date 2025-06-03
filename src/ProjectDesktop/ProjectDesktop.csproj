@@ -36,6 +36,7 @@
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -74,6 +75,16 @@
     <Compile Include="Apresentacao\Settings\FrmSettings.Designer.cs">
       <DependentUpon>FrmSettings.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\Bases.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Desencryptacion.cs" />
+    <Compile Include="Models\Driver.cs" />
+    <Compile Include="Models\Encryptacion.cs" />
+    <Compile Include="Models\Log.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Apresentacao\FrmEmpresa.resx">
@@ -139,6 +150,9 @@
     <None Include="Resources\home_24x.png" />
     <None Include="Resources\home_32x.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Dados\" />
+    <Folder Include="Logica\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
