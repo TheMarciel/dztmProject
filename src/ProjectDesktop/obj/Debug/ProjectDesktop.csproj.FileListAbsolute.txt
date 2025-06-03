@@ -1,0 +1,72 @@
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\bin\Debug\ProjectDesktop.exe.config
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\bin\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\bin\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.AssemblyReference.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.FrmMenu.resources
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.Properties.Resources.resources
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.GenerateResource.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.CoreCompileInputs.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\05-Maio\dztmProject\ProjectDesktop\obj\Debug\ProjectDesktop.exe.config
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe.config
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.AssemblyReference.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.FrmMenu.resources
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Properties.Resources.resources
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.GenerateResource.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.CoreCompileInputs.cache
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.Settings.FrmSettings.resources
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\bin\Debug\UIDC.dll
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectD.D64C26DA.Up2Date
+F:\Trabalho\Projeto\05-Maio\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmHome.resources
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe.config
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\bin\Debug\UIDC.dll
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.AssemblyReference.cache
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmHome.resources
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.FrmMenu.resources
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.Settings.FrmSettings.resources
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Properties.Resources.resources
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.GenerateResource.cache
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.CoreCompileInputs.cache
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectD.D64C26DA.Up2Date
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.pdb
+C:\Driver e programas\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe.config
+C:\Driver e programas\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe
+C:\Driver e programas\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.pdb
+C:\Driver e programas\dztmProject\src\ProjectDesktop\bin\Debug\UIDC.dll
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.AssemblyReference.cache
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe.config
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmHome.resources
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.FrmMenu.resources
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.Settings.FrmSettings.resources
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Properties.Resources.resources
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.GenerateResource.cache
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.CoreCompileInputs.cache
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectD.D64C26DA.Up2Date
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.pdb
+C:\Driver e programas\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmEmpresa.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe.config
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.exe
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\bin\Debug\ProjectDesktop.pdb
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\bin\Debug\UIDC.dll
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.AssemblyReference.cache
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe.config
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmEmpresa.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmHome.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.FrmMenu.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.Settings.FrmSettings.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Properties.Resources.resources
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.GenerateResource.cache
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.csproj.CoreCompileInputs.cache
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectD.D64C26DA.Up2Date
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.exe
+C:\Driver e programas\C#\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.pdb
+F:\Trabalho\Projeto\06-Junho\dztmProject\src\ProjectDesktop\obj\Debug\ProjectDesktop.Apresentacao.FrmEmpresa.resources
