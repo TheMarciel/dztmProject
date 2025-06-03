@@ -2,3 +2,7 @@
 Cor: rgb(207, 46, 46)
 WhiteSmoke
 rgb(255, 255, 255)
+
+git remote add origin https://github.com/TheMarciel/dztmProject.git
+git branch -M main
+git push -u origin main
