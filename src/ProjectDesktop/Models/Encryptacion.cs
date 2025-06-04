@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectDesktop.Models
+namespace dztmDesktop.Models
 {
     public class Encryptacion
     {

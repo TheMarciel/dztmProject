@@ -3,7 +3,7 @@ using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 
-namespace ProjectDesktop.Apresentacao.Settings
+namespace dztmDesktop.Apresentacao.Settings
 {
     public partial class FrmSettings : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace ProjectDesktop.Apresentacao.Settings
+﻿namespace dztmDesktop.Apresentacao.Settings
 {
     partial class FrmSettings
     {
@@ -36,7 +36,6 @@
             this.pnButtom = new System.Windows.Forms.Panel();
             this.uI_LabelMaterial1 = new UIDC.UI_LabelMaterial();
             this.toggleMenu = new UIDC.UI_MaterialToggle();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.pnButtom.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -129,16 +128,6 @@
             this.toggleMenu.UseVisualStyleBackColor = false;
             this.toggleMenu.CheckedChanged += new System.EventHandler(this.toggleMenu_CheckedChanged);
             // 
-            // checkBox1
-            // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(624, 210);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(95, 20);
-            this.checkBox1.TabIndex = 32;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
-            // 
             // FrmSettings
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -146,7 +135,6 @@
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1505, 704);
             this.Controls.Add(this.toggleMenu);
-            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.uI_LabelMaterial1);
             this.Controls.Add(this.lblTema);
             this.Controls.Add(this.toggleTema);
@@ -171,6 +159,5 @@
         private System.Windows.Forms.Panel pnButtom;
         private UIDC.UI_LabelMaterial uI_LabelMaterial1;
         private UIDC.UI_MaterialToggle toggleMenu;
-        private System.Windows.Forms.CheckBox checkBox1;
     }
 }

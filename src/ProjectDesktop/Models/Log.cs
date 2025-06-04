@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectDesktop.Models
+namespace dztmDesktop.Models
 {
     internal class Log
     {

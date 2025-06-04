@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjectDesktop
+namespace dztmDesktop
 {
     internal static class Program
     {
@@ -17,6 +17,7 @@ namespace ProjectDesktop
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmMenu());
+            //Application.Run(new dztmDesktop.Apresentacao.Settings.FrmConnection());
         }
     }
 }

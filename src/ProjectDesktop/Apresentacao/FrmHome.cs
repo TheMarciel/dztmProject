@@ -1,13 +1,22 @@
-﻿using System;
+﻿using dztmDesktop.Logica;
+using dztmDesktop.Models;
+using ProjectDesktop.Logica;
+using ProjectDesktop.Models;
+using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
+using System.Linq;
 using System.Windows.Forms;
-//using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace ProjectDesktop.Apresentacao
+namespace dztmDesktop.Apresentacao
 {
     public partial class FrmHome : Form
     {
+        BllCustomer bllcliente = new BllCustomer();
+        BllProduct bllproduto = new BllProduct();
+        BllOrder bllorder = new BllOrder();
+        private int totalpedido;
         public FrmHome()
         {
             InitializeComponent();
@@ -21,7 +30,8 @@ namespace ProjectDesktop.Apresentacao
         {
             VerificarCor();
             TopClientes();
-            
+            StatusPedidos();
+            TopProdutos();
             uI_CircleProgress1.Text = uI_CircleProgress1.Value.ToString() + "%";
             uI_GradiantGauge1.Text = uI_GradiantGauge1.Value.ToString() + "%";
             lblVersao.Text = "   Versão:" + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
@@ -70,6 +80,58 @@ namespace ProjectDesktop.Apresentacao
             }
         }
         private void TopClientes()
+        {
+            try
+            {
+                List<ModelCustomer> list = new List<ModelCustomer>();
+                list = bllcliente.ListarCliente("filial");
+                //dataLista.Rows.Clear();
+
+                //*****************
+                /*foreach (var item in list)
+                {
+                    dataLista
+                   .Rows.Add
+                   (
+                   );
+                }*/
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        private void StatusPedidos()
+        {
+            try
+            {
+                List<ModelOrder> list = new List<ModelOrder>();
+                list = bllorder.StatusPedido("filial");
+                dataLista.Rows.Clear();
+
+                //*****************
+                foreach (var item in list)
+                {
+                    dataLista
+                   .Rows.Add
+                   (
+                        item.pedData,
+                        item.pedCodigo,
+                        item.pedItens,
+                        item.cliFantasia
+                   );
+                }
+                
+                lblTotalPedido.Text = list.Count > 1 ? $"Total de pedidos: {list.Count}" : $"Total de pedido: {list.Count}";
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        private void TopProdutos()
         {
             try
             {

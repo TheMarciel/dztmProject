@@ -1,1 +1,15 @@
-{"ShowEmptyProjects":false,"CustomColumnOrderings":{"name":0,"type":1,"neutral-value":2,"neutral-comment":3},"ShowValidationErrors":true,"SelectedResourceGroupsByProjectFilePath":{"F:\\Trabalho\\Projeto\\06-Junho\\dztmProject\\src\\ProjectDesktop\\ProjectDesktop.csproj":["F:\\Trabalho\\Projeto\\06-Junho\\dztmProject\\src\\ProjectDesktop\\Apresentacao\\FrmMenu.resx"]},"VisibleColumnKeys":["name"]}
+{
+  "ShowEmptyProjects": false,
+  "SelectedGroups": [],
+  "ExpandedProjects": [],
+  "EnableSpellChecker": true,
+  "ColumnOrder": [
+    "name",
+    "type",
+    "neutral-value",
+    "neutral-comment"
+  ],
+  "VisibleColumnKeys": [
+    "name"
+  ]
+}

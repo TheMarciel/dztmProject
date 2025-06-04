@@ -1,20 +1,12 @@
-﻿using ProjectDesktop.Apresentacao;
-using ProjectDesktop.Apresentacao.Settings;
+﻿using dztmDesktop.Apresentacao;
+using dztmDesktop.Apresentacao.Settings;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using UIDC;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace ProjectDesktop
+namespace dztmDesktop
 {
     public partial class FrmMenu : Form
     {

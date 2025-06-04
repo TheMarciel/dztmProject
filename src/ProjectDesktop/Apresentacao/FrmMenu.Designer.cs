@@ -1,4 +1,4 @@
-﻿namespace ProjectDesktop
+﻿namespace dztmDesktop
 {
     partial class FrmMenu
     {

@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Management;
 using System.Net;
 using System.Security.Cryptography;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjectDesktop.Models
+namespace dztmDesktop.Models
 {
     public class Bases
     {

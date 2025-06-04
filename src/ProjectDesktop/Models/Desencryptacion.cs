@@ -1,6 +1,6 @@
 ﻿using System.Xml;
 
-namespace ProjectDesktop.Models
+namespace dztmDesktop.Models
 {
     public class Desencryptacion
     {
